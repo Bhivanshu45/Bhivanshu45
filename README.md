@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Bhivanshu Lawaniya 👋
 
-<!--
-**Bhivanshu45/Bhivanshu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack MERN Developer with experience in:
+- 💻 **Languages**: Python, JavaScript, C++
+- 🌐 **Web Technologies**: HTML, CSS, React, Node.js
+- 📦 **Tools & Platforms**: Git, GitHub, Docker, Linux, VS Code
+- 📊 **Interests**: Data Science, Web Development, Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few highlights from my GitHub repositories:
+
+- 🔗 [Project Name 1](https://github.com/yourusername/project1) – Short description of what it does.
+- 🔗 [Project Name 2](https://github.com/yourusername/project2) – Another project with a short description.
+- 🔗 [More Projects →](https://github.com/yourusername?tab=repositories)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [Portfolio](https://yourportfolio.com) *(optional)*
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+⭐️ Fun fact: [Insert something interesting or fun about you!]
