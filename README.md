@@ -1,25 +1,41 @@
-# Hi there, I'm Bhivanshu Lawaniya 👋
+# 👋 Hi there, I'm Bhivanshu Lawaniya
 
-I'm a passionate Full Stack MERN Developer with experience in:
-- 💻 **Languages**: Python, JavaScript, C++
-- 🌐 **Web Technologies**: HTML, CSS, React, Node.js
-- 📦 **Tools & Platforms**: Git, GitHub, Docker, Linux, VS Code
-- 📊 **Interests**: Data Science, Web Development, Machine Learning
+I'm a passionate Full Stack Developer who loves building real-world scalable applications and exploring new technologies.
+
+## 💡 Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+), TypeScript
+- C, C++
+- Python (basic)
+
+### 🌐 Web Development
+- React.js, Next.js (App Router)
+- Express.js, Node.js
+- MongoDB, Mongoose, PostgreSQL (with Prisma)
+- Tailwind CSS, Shadcn UI, Framer Motion
+- NextAuth.js, JWT Authentication
+- Supabase (DB & Auth), Razorpay, Resend, Nodemailer
+- AI API integrations (via Vercel AI SDK)
+
+### 🛠️ Tools & Platforms
+- Git & GitHub, Postman, VS Code
+- Docker (basic), Linux (basic)
+- Redis (via Upstash), Prisma ORM
+- Cloudinary (file/image storage)
 
 ## 🚀 Projects
 
-Here are a few highlights from my GitHub repositories:
-
-- 🔗 [Project Name 1](https://github.com/yourusername/project1) – Short description of what it does.
-- 🔗 [Project Name 2](https://github.com/yourusername/project2) – Another project with a short description.
-- 🔗 [More Projects →](https://github.com/yourusername?tab=repositories)
+- 🧠 **SkillNova** – EdTech platform for learning resources and content creation  
+- 💬 **Mystery Message Box** – Next.js AI app suggesting creative replies using Vercel AI  
+- 📡 **Real-time Chat App** – Socket.IO based communication platform  
+- 👥 **Technestia (Devnesty)** – Ongoing advanced collaboration platform for devs with projects, invites, access levels, logging, and more!
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Portfolio](https://yourportfolio.com) *(optional)*
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [bhivanshulawaniya@gmail.com](mailto:bhivanshulawaniya@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/bhivanshu-lawaniya-b668a7290](https://www.linkedin.com/in/bhivanshu-lawaniya-b668a7290/)
 
 ---
 
-⭐️ Fun fact: [Insert something interesting or fun about you!]
+> 🔍 Always curious. Constantly building. Open to collaborations and internships!
