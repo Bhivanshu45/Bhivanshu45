@@ -10,19 +10,19 @@ I'm a passionate Full Stack Developer who loves building real-world scalable app
 - Python (basic)
 
 ### 🌐 Web Development
-- React.js, Next.js (App Router)
+- React.js, Next.js (App Router), Django, FastAPI
 - Express.js, Node.js
 - MongoDB, Mongoose, PostgreSQL (with Prisma)
 - Tailwind CSS, Shadcn UI, Framer Motion
-- NextAuth.js, JWT Authentication
+- NextAuth.js, JWT Authentication, OAuth
 - Supabase (DB & Auth), Razorpay, Resend, Nodemailer
 - AI API integrations (via Vercel AI SDK)
 
 ### 🛠️ Tools & Platforms
-- Git & GitHub, Postman, VS Code
+- Git & GitHub, Postman, VS Code, Jira
 - Docker (basic), Linux (basic)
 - Redis (via Upstash), Prisma ORM
-- Cloudinary (file/image storage)
+- Cloudinary (file/image storage), Google Pub/Sub
 
 ## 🚀 Projects
 
