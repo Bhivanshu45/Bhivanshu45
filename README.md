@@ -10,7 +10,7 @@
 Building Scalable Products • Real-Time Systems • Intelligent Software
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Systems+Developer;Building+Scalable+Products;Real-Time+Applications;AI-Powered+Software;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Systems+Developer;Building+Scalable+Products;Real-Time+Applications;AI-Powered+Software" />
 
 <br/>
 
@@ -74,164 +74,29 @@ const bhivanshu = {
 
 ---
 
-# 🌟 Featured Projects
+## ⚡ Tech Stack
 
-## 🚀 SkillNova
-
-**AI-Powered EdTech Platform**
-
-* Full Stack Architecture
-* Authentication & Authorization
-* Content Management
-* Modern Responsive UI
-* Scalable Backend Design
-
----
-
-## 👥 Technestia
-
-**Developer Collaboration Platform**
-
-* Role Based Access Control (RBAC)
-* NextAuth Authentication
-* Google OAuth
-* GitHub OAuth
-* Credential Authentication
-* Real-Time Features
-* Socket.IO Integration
-* Activity Logging
-* Rate Limiting
-* Pagination
-* Team Collaboration
-* Modern UI/UX
-
----
-
-## 💬 Mystery Message Box
-
-**AI-Powered Anonymous Messaging Platform**
-
-* AI Reply Suggestions
-* LLM Integration
-* Secure Authentication
-* Modern Next.js Architecture
-* Clean User Experience
-
----
-
-# 🛠️ Tech Arsenal
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nextjs,nodejs,express,fastapi,django,mongodb,mysql,postgresql,redis,docker,git,github,githubactions,linux,postman" />
 </p>
 
-## Frontend
+**Frontend:** React • Next.js • Tailwind CSS • Bootstrap • Shadcn UI • Framer Motion
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
-</p>
+**Backend:** Node.js • Express.js • FastAPI • Django • Socket.IO
 
-**Additional:** Shadcn UI • Framer Motion
+**Databases:** MongoDB • PostgreSQL • MySQL • Redis • Qdrant
 
-## Backend
+**Authentication:** NextAuth.js • OAuth • JWT • RBAC • Rate Limiting
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
-</p>
+**AI & GenAI:** LangChain • RAG • Embeddings • Semantic Search • Gemini API • LLM Integrations
 
-**Also Working With:** REST APIs • Socket.IO
+**ORMs & Validation:** Prisma • Mongoose • Sequelize • SQLAlchemy • Zod
 
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-</p>
-
-**Vector Database:** Qdrant
-
-## Authentication & Security
-
-* NextAuth.js
-* OAuth
-* JWT
-* RBAC
-* Rate Limiting
-
-## AI & GenAI
-
-* LangChain
-* RAG
-* Embeddings
-* Vector Search
-* Semantic Search
-* Prompt Engineering
-* Gemini API
-* LLM Integrations
-
-## ORMs & Validation
-
-* Prisma
-* Mongoose
-* Sequelize
-* SQLAlchemy
-* Zod
-
-## DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" />
-</p>
-
-**Also Using:** Jira • Cloudinary • Twilio • Resend
+**Tools:** Docker • Git • GitHub Actions • Linux • Postman • Jira • Cloudinary • Twilio • Resend
 
 ---
 
-# 🎯 What I Love Building
-
-✅ Scalable Full Stack Applications
-
-✅ Backend Systems & APIs
-
-✅ Real-Time Architectures
-
-✅ Authentication & Security
-
-✅ AI-Powered Products
-
-✅ Developer Tools
-
----
-
-# 🧠 Current Focus
-
-### Building
-
-**NewsLens — AI News Intelligence Platform**
-
-Tech Stack:
-
-FastAPI • PostgreSQL • Redis • Qdrant • LangChain • Gemini
-
-Planned Features:
-
-* AI Summaries
-* Story Clustering
-* Semantic Search
-* Personalized Recommendations
-* RAG Chat Assistant
-
-### Learning
-
-* Agentic AI
-* LangGraph
-* Advanced RAG
-* System Design
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -251,27 +116,27 @@ Planned Features:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌟 Featured Projects
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Bhivanshu45\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=15)
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhivanshu45&hide_border=true" />
-
-</div>
+| Project                    | Description                                                             |
+| -------------------------- | ----------------------------------------------------------------------- |
+| 🚀 **SkillNova**           | Full Stack EdTech Platform focused on modern learning experiences       |
+| 👥 **Technestia**          | Developer Collaboration Platform with RBAC, OAuth and Realtime Features |
+| 💬 **Mystery Message Box** | Anonymous Messaging Platform with AI-generated Reply Suggestions        |
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Competitive Programming
+
+🛡️ **Knight @ LeetCode (1884 Rating)**
+
+💻 **600+ DSA Problems Solved**
+
+⭐ **3★ CodeChef**
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -281,25 +146,13 @@ Planned Features:
 
 ---
 
-# 🏆 Competitive Programming
-
-🛡️ Knight @ LeetCode (1884 Rating)
-
-💻 Solved 600+ DSA Problems
-
-⭐ 3★ CodeChef
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-Always open to meaningful conversations, collaborations, and exciting opportunities.
-
 📧 **[bhivanshulawaniya@gmail.com](mailto:bhivanshulawaniya@gmail.com)**
 
-🔗 LinkedIn
+💼 LinkedIn
 
 💻 GitHub
 
@@ -309,8 +162,6 @@ Always open to meaningful conversations, collaborations, and exciting opportunit
 
 <div align="center">
 
-### Thanks for Visiting 👨‍💻
-
-Building Products • Solving Problems • Learning Every Day
+### 🚀 Building Full-Stack Products, Real-Time Systems & AI Applications
 
 </div>
