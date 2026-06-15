@@ -42,7 +42,7 @@ Building Scalable Products • Real-Time Systems • Intelligent Software
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ```typescript
 const bhivanshu = {
@@ -74,7 +74,7 @@ const bhivanshu = {
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nextjs,nodejs,express,fastapi,django,mongodb,mysql,postgresql,redis,docker,git,github,githubactions,linux,postman" />
@@ -116,13 +116,13 @@ const bhivanshu = {
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-| Project                    | Description                                                             |
-| -------------------------- | ----------------------------------------------------------------------- |
-| 🚀 **SkillNova**           | Full Stack EdTech Platform focused on modern learning experiences       |
-| 👥 **Technestia**          | Developer Collaboration Platform with RBAC, OAuth and Realtime Features |
-| 💬 **Mystery Message Box** | Anonymous Messaging Platform with AI-generated Reply Suggestions        |
+| Project                  | Description                                                             |
+| -------------------------| ----------------------------------------------------------------------- |
+| **SkillNova**            | Full Stack EdTech Platform focused on modern learning experiences       |
+| **Technestia**           | Developer Collaboration Platform with RBAC, OAuth and Realtime Features |
+| **Mystery Message Box**  | Anonymous Messaging Platform with AI-generated Reply Suggestions        |
 
 ---
 
@@ -136,7 +136,7 @@ const bhivanshu = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
 
