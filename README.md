@@ -59,8 +59,8 @@ const bhivanshu = {
     ],
 
     currentlyBuilding: [
-        "NewsLens - AI News Intelligence Platform",
-        "Technestia - Developer Collaboration Platform"
+        "Technestia - Developer Collaboration Platform",
+        "NewsLens - AI News Intelligence Platform"
     ],
 
     currentlyLearning: [
@@ -88,7 +88,7 @@ const bhivanshu = {
 
 **Authentication:** NextAuth.js • OAuth • JWT • RBAC • Rate Limiting
 
-**AI & GenAI:** LangChain • RAG • Embeddings • Semantic Search • Gemini API • LLM Integrations
+**AI & Workflow Automation:** LangChain • RAG • Embeddings • Semantic Search • Gemini API • LLM Integrations • LangGraph
 
 **ORMs & Validation:** Prisma • Mongoose • Sequelize • SQLAlchemy • Zod
 
@@ -118,21 +118,21 @@ const bhivanshu = {
 
 ## Featured Projects
 
-| Project                  | Description                                                             |
-| -------------------------| ----------------------------------------------------------------------- |
-| **SkillNova**            | Full Stack EdTech Platform focused on modern learning experiences       |
-| **Technestia**           | Developer Collaboration Platform with RBAC, OAuth and Realtime Features |
-| **Mystery Message Box**  | Anonymous Messaging Platform with AI-generated Reply Suggestions        |
+| Project                  | Description                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| **SkillNova**            | Full Stack EdTech Platform focused on modern learning experiences                 |
+| **Technestia**           | Developer Collaboration Platform with RBAC, OAuth and Realtime Features           |
+| **NewsLens**             | Intelligent news platform with personalized feeds, AI summaries, and RAG chatbot. |
 
 ---
 
 ## 🏆 Competitive Programming
 
-🛡️ **Knight @ LeetCode (1884 Rating)**
+🛡️ **Knight @ LeetCode (1915 Maximum Rating)**
 
-💻 **600+ DSA Problems Solved**
+💻 **650+ DSA Problems Solved**
 
-⭐ **3★ CodeChef**
+⭐ **3★ @ CodeChef**
 
 ---
 
