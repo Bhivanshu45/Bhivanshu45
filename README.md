@@ -55,12 +55,14 @@ const bhivanshu = {
         "Full Stack Applications",
         "Real-Time Architectures",
         "Authentication & Security",
-        "AI-Powered Products"
+        "AI-Powered Products",
+        "Cross-Platform Mobile Applications"
     ],
 
     currentlyBuilding: [
         "Technestia - Developer Collaboration Platform",
-        "NewsLens - AI News Intelligence Platform"
+        "NewsLens - AI News Intelligence Platform",
+        "PropNest - Cross-Platform Real Estate Application"
     ],
 
     currentlyLearning: [
@@ -80,13 +82,13 @@ const bhivanshu = {
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nextjs,nodejs,express,fastapi,django,mongodb,mysql,postgresql,redis,docker,git,github,githubactions,linux,postman" />
 </p>
 
-**Frontend:** React • Next.js • Tailwind CSS • Bootstrap • Shadcn UI • Framer Motion
+**Frontend:** React • React Native • Next.js • Expo • Expo Router • Tailwind CSS • NativeWind • Bootstrap • Shadcn UI • Framer Motion
 
 **Backend:** Node.js • Express.js • FastAPI • Django • Socket.IO
 
 **Databases:** MongoDB • PostgreSQL • MySQL • Redis • Qdrant
 
-**Authentication:** NextAuth.js • OAuth • JWT • RBAC • Rate Limiting
+**Authentication:** Clerk • NextAuth.js • OAuth • JWT • RBAC • Rate Limiting
 
 **AI & Workflow Automation:** LangChain • RAG • Embeddings • Semantic Search • Gemini API • LLM Integrations • LangGraph
 
@@ -118,11 +120,12 @@ const bhivanshu = {
 
 ## Featured Projects
 
-| Project                  | Description                                                                       |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| **SkillNova**            | Full Stack EdTech Platform focused on modern learning experiences                 |
-| **Technestia**           | Developer Collaboration Platform with RBAC, OAuth and Realtime Features           |
-| **NewsLens**             | Intelligent news platform with personalized feeds, AI summaries, and RAG chatbot. |
+| Project                  | Description                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| **SkillNova**            | Full Stack EdTech Platform focused on modern learning experiences                  |
+| **Technestia**           | Developer Collaboration Platform with RBAC, OAuth and Realtime Features            |
+| **NewsLens**             | Intelligent news platform with personalized feeds, AI summaries, and RAG chatbot.  |
+| **PropNest**             | Cross-platform real estate application uses React Native, Expo, Clerk and Supabase.|
 
 ---
 
